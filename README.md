@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌ Hi everyone, my name is Alexander Starkov, I am 31 years old and I am passionate about IT direction<br>🔭 At the moment I am working on personal pet projects<br>🌱 I'm mainly studying backend direction - Python/Django, a little bit of PHP/Laravel, a little bit of JS and all related technologies.<br>📝 Any questions write me on e-mail or in telegram<br>- a.starkovjr@gmail.com<br>- https://t.me/AlexStarkJr<br>🧪 I'm also into testing<br>- https://github.com/Alexandr-StarkovJr<br>⚡ Fun fact - The first bug in the history of programming was a real moth. Since then I've been catching bugs too, but only in code
+✌ Hi everyone, my name is Alexander Starkov, I am 31 years old and I am passionate about IT direction<br>🔭 At the moment I am working on personal pet projects<br>🌱 I'm mainly studying backend direction - Python/Django, a little bit of PHP/Laravel, a little bit of JS and all related technologies.<br>📝 Any questions write me on e-mail or telegram<br>- a.starkovjr@gmail.com<br>- https://t.me/AlexStarkJr<br>🧪 I'm also into testing<br>- https://github.com/Alexandr-StarkovJr<br>⚡ Fun fact - The first bug in the history of programming was a real moth. Since then I've been catching bugs too, but only in code
 
 
 ## 🌐 Socials:
